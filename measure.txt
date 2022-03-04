@@ -1,0 +1,10 @@
+color: #312614 (black)
+        #b7832F (brown)
+        #707070 (grey)
+        #FFF (white)
+font-styles used:
+
+text size: <h1> : 3 rem
+            <h2>: 1.5rem
+           <body>: 1.125 rem
+layout: max-width: 980px
